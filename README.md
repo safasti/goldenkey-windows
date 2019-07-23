@@ -1,1 +1,0 @@
-# GoldenKey for Windows
