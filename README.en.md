@@ -33,7 +33,8 @@ Step3: Choice [Use autoMatic configuration script]
 Address：https://127.0.0.1:8123/proxy.pac  
 
 FireFox :  
-Step1: Open firefox -> Options -> Settings - > User system proxy settings
+Step1:   
+Open firefox -> Options -> Settings - > User system proxy settings
 
 ###	Q: Browser access network: 500 internal server error ?
 A1: Maybe some software or browser plug-in using the proxy, Such as [Proxy SwitchySharp] plugin in chrome or other plugins with Proxy functionality. Please shutdown such plug-ins and software, restart VPNET to try again.  
