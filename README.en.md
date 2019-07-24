@@ -1,6 +1,6 @@
 # goldenkey-windows
 
-# GoldenKey Documentation
+# User Documentation
 
 ## Windows version requirements
 To install GoldenKey(VPNET), you need Windows versions:
