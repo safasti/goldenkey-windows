@@ -32,7 +32,7 @@ Step2: Click [LAN settings]
 Step3: Choice [Use autoMatic configuration script]  
 Address：https://127.0.0.1:8123/proxy.pac  
 
-FireFox :
+FireFox :  
 Step1: Open firefox -> Options -> Settings - > User system proxy settings
 
 ###	Q: Browser access network: 500 internal server error ?
