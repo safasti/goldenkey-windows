@@ -39,9 +39,9 @@ B. FireFox浏览器设置
 Q.360等常用浏览器进行网络访问时提示500 internal server error   
 A.遇到该问题是由于系统存在某些软件或浏览器插件强行占用代理所致，例如chrome浏览器中的Proxy SwitchySharp插件或同类型带有代理功能插件影响。可以试着把这类插件和软件停用关闭任务进程后重新启动VPNET重试，如还是不行请使用包内【恢复网络（右击管理员权限运行）.bat】进行尝试恢复。
 
-# Downlad
-https://github.com/safasti/goldenkey-windows/blob/master/binarie/VPNET-win-v1.6.0.zip
-
 ## 如有问题
 请通过vpnlantern@gmail.com反馈
+
+# Downlad
+https://github.com/safasti/goldenkey-windows/blob/master/binarie/VPNET-win-v1.6.0.zip
 
